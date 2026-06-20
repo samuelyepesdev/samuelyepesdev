@@ -100,7 +100,7 @@ fun_fact: Powered by coffee and videogames 🎮
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alfadestruc17&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8&order=3" height="160" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=samuelyepesdev&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8&order=3" height="160" alt="Streak Stats"/>
 </div>
 
 <div align="center">
