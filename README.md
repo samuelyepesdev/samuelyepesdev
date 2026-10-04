@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00d4ff&height=220&section=header&text=Samuel%20Yepes&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%20Backend%20%26%20Sistemas%20empresariales&descAlignY=58&descSize=18" alt="Samuel Yepes"/>
+<img src="https://raw.githubusercontent.com/samuelyepesdev/samuelyepesdev/main/assets/banner.svg" alt="Samuel Yepes" width="100%"/>
 
 <a href="https://github.com/samuelyepesdev/samuelyepesdev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=640&lines=Construyo+soluciones+que+funcionan+en+producci%C3%B3n;Node.js+%C2%B7+Laravel+%C2%B7+React+%C2%B7+TypeScript;De+la+idea+al+despliegue+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&lines=Construyo+soluciones+que+funcionan+en+producci%C3%B3n;Node.js+%C2%B7+Laravel+%C2%B7+React+%C2%B7+TypeScript;De+la+idea+al+despliegue+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -141,7 +141,5 @@ Soy desarrollador de **Colombia 🇨🇴**, estudiante de **Análisis y Desarrol
 <div align="center">
 
 *"First, solve the problem. Then, write the code."* — John Johnson
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:00d4ff&height=100&section=footer" alt=""/>
 
 </div>
