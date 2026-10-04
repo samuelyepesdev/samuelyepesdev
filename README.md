@@ -3,13 +3,14 @@
 <img src="https://raw.githubusercontent.com/samuelyepesdev/samuelyepesdev/main/assets/banner.svg" alt="Samuel Yepes" width="100%"/>
 
 <a href="https://github.com/samuelyepesdev/samuelyepesdev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&lines=Construyo+soluciones+que+funcionan+en+producci%C3%B3n;Node.js+%C2%B7+Laravel+%C2%B7+React+%C2%B7+TypeScript;De+la+idea+al+despliegue+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&lines=Construyo+soluciones+que+funcionan+en+producci%C3%B3n;Co-fundador+de+Safe+Software+Solutions;Node.js+%C2%B7+Laravel+%C2%B7+React+%C2%B7+TypeScript;De+la+idea+al+despliegue+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <a href="https://portafolio-samuel-amber.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portafolio"/></a>
 <a href="https://www.linkedin.com/in/samuel-yepes-rivera-78ba35353/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://safesoftwaresolution.com/"><img src="https://img.shields.io/badge/Safe_Software_Solutions-0A2540?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Safe Software Solutions"/></a>
 <a href="mailto:rene28609@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
@@ -18,11 +19,14 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy desarrollador de **Colombia 🇨🇴**, estudiante de **Análisis y Desarrollo de Software**. Me enfoco en backend y sistemas empresariales: diseño y despliego aplicaciones completas, con código limpio y buenas prácticas.
+Soy **desarrollador Fullstack** de **Colombia 🇨🇴** y **co-fundador de [Safe Software Solutions](https://safesoftwaresolution.com/)**, una empresa que construye software para negocios que quieren avanzar: desarrollo web, software empresarial, aplicaciones, automatización de procesos, integraciones e inteligencia artificial.
 
+Mi foco es el backend y los sistemas empresariales: diseño, desarrollo y despliego aplicaciones completas y listas para producción, con código limpio y buenas prácticas.
+
+- 🏢 Co-fundador de **[Safe Software Solutions](https://safesoftwaresolution.com/)**
 - 🏗️ Construyo plataformas **multi-tenant**, POS, inventarios y paneles financieros
 - 🌱 Ahora mismo profundizando en **Flutter, MongoDB y servicios en la nube**
-- 🤝 Abierto a oportunidades, prácticas y colaboraciones
+- 🤝 Abierto a proyectos, alianzas y colaboraciones
 - ☕ Funciono con café y videojuegos 🎮
 
 ---
